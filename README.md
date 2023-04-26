@@ -1,2 +1,2 @@
-# Japanese-Learning
-A repository used to store Japanese learning materials, notes, refernences, textbooks, etc.
+# Japanese Learning
+A repository used to store my Japanese learning materials, notes, refernences, textbooks, etc.
