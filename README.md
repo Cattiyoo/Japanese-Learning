@@ -1,2 +1,3 @@
 # Japanese-Learning
-Japanese self-learning notes.
+***
+A repository used to store Japanese learning materials, notes, refernences, textbooks, etc.
