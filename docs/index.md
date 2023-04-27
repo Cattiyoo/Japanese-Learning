@@ -15,7 +15,18 @@
 * 语法
 * DUOLINGO 每日学习记录
 </font>
-    
+
+<details>
+  <summary><font face="微软雅黑">喜欢的话可以给窝投喂~</font></summary>
+   <div align=center>
+    <img src=/img/reward_code.jpg width="300">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <img src=/img/piggy_code.jpg width="300">
+</div>
+   <div align=center><font size=4>ありがとう！</font></div>
+</details>
+
+
+
 ## 日志
 > 4/26: 
 >> 这个帖子出生啦
@@ -26,4 +37,6 @@
 >> 更新了首页的一些小表情使其更加kawaiii
 
 >> 在底部添加了GitHub:fontawesome-brands-github: 链接
+
+>> 添加了猫粮投喂通道:octicons-heart-fill-24:{ .red_heart }
 
