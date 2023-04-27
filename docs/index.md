@@ -18,14 +18,13 @@
 
 <details>
   <summary><font face="微软雅黑">喜欢的话可以给窝投喂~</font></summary>
+
    <div align=center>
     <img src="https://raw.githubusercontent.com/Cattiyoo/Japanese-Learning/main/docs/img/piggy_code.jpg" width="300">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
     <img src="https://raw.githubusercontent.com/Cattiyoo/Japanese-Learning/main/docs/img/reward_code.jpg" width="300">
 </div>
    <div align=center><font size=4>ありがとう！</font></div>
 </details>
-
-
 
 ## 日志
 > 4/26: 
@@ -36,7 +35,8 @@
 > 4/27：
 >> 更新了首页的一些小表情使其更加kawaiii
 
->> 在底部添加了GitHub:fontawesome-brands-github: 链接
+>> 在底部添加了GitHub:fontawesome-brands-github: 链接以及Copyright:fontawesome-regular-copyright:符号
 
 >> 添加了猫粮投喂通道:octicons-heart-fill-24:{ .red_heart }
 
+>> 日语发音板块基本收工:victory_hand: 
