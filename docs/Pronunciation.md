@@ -110,7 +110,7 @@
 
     <div align=center>
     <figure markdown>
-    ![Image title](/img/ero.jpg)
+    <img src="https://raw.githubusercontent.com/Cattiyoo/Japanese-Learning/main/docs/img/ero.JPG">
     <div align=center>
     <figcaption><font size=3>エロはっせい</br>~~（工口発生）~~
     </div></font></figcaption>
@@ -128,7 +128,7 @@
 
     <div align=center>
     <figure markdown>
-    ![Image title](/img/pron.png)
+    ![Image title](https://raw.githubusercontent.com/Cattiyoo/Japanese-Learning/main/docs/img/pron.png)
     <figcaption><font size=3>这里的①就是用来表示重音</font></figcaption>
     </figure></div>
 
