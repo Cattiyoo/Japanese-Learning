@@ -2,18 +2,30 @@ site_name: 元気MeowMeow学不会法语
 nav:
   - "首页": index.md
   - "语音": Pronunciation.md
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+extra_css:
+  - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Cattiyoo  
 theme:
   name: material
   palette:
     #primary: blue grey
 
-    - scheme: default # 日间模式
-      primary: deep blue # 上方的
-      accent: cyan # 链接等可交互元件的高亮色
+    - scheme: default 
+      primary: deep blue 
+      accent: cyan 
       toggle:
-        icon: material/weather-night # 图标
-        name: 切换至夜间模式 # 鼠标悬浮提示
-    - scheme: slate # 夜间模式
+        icon: material/weather-night 
+        name: 切换至夜间模式 
+    - scheme: slate 
       primary: black
       accent: cyan
       toggle:

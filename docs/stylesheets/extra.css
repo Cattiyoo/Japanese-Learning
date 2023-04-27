@@ -1,0 +1,18 @@
+.twitter {
+  color: #1DA1F2;
+}
+
+{% octicon mark-github height:16 %}
+
+@keyframes red_heart {
+  0%, 40%, 80%, 100% {
+    color: #FF0000;
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.15);
+  }
+}
+.red_heart {
+  animation: red_heart 1000ms infinite;
+}
