@@ -122,8 +122,11 @@
 - 五十音的读和写：[小天使带你记五十音 ~~（夹带私货）~~](https://www.bilibili.com/video/BV197411n74n/?share_source=copy_web&vd_source=3f8b099df169244691ee93d4f145e78c)
 - [Japanese with Anime: Gojūon](https://www.japanesewithanime.com/2019/12/gojuon.html)
 
+<<<<<<< HEAD
 ***
 
+=======
+>>>>>>> 3062db29f779bc50aaa1f1b4b7059e70fda00df1
 ## 音调
 
 ???+ question "什么是重音"
